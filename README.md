@@ -1,11 +1,20 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HemanthKSSEM/HemanthKSSEM/main/banner.png" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Hemanth Reddy V G</h1>
-<h3 align="center">Artificial Intelligence & Data Science Undergraduate | Building Intelligent Solutions with Machine Learning and Python</h3>
+
+<h3 align="center">
+Artificial Intelligence & Data Science Graduate | Building Intelligent Solutions with Machine Learning and Python
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=hemanthreddyvg&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1500&color=000000&center=true&vCenter=true&width=1200&lines=Artificial+Intelligence+%26+Data+Science+Graduate;Strong+Foundation+in+Python%2C+Machine+Learning+and+Data+Analysis;Passionate+About+Solving+Real-World+Problems+Using+AI;Building+Data-Driven+Solutions+Through+Innovation;Committed+to+Continuous+Learning+and+Professional+Growth" />
 </p>
 
 - 🎓 B.E. in Artificial Intelligence & Data Science
