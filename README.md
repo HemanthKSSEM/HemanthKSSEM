@@ -1,4 +1,4 @@
-![Banner](https://github.com/HemanthKSSEM/HemanthKSSEM/blob/main/c5693510-b847-4738-9131-95db2192b9b9.png)
+![logo](https://github.com/HemanthKSSEM/HemanthKSSEM/blob/main/git%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Hemanth Reddy V G</h1>
 
