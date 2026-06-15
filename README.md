@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hemanth Reddy V G</h1>
-<h3 align="center">AI & Data Science Student | Machine Learning Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Artificial Intelligence & Data Science Undergraduate | Building Intelligent Solutions with Machine Learning and Python</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -76,21 +76,20 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-- 🌿 AI-Based Crop Disease Detection System
+- 🎤 AI-Based Mock Interview System
 - 💰 Loan Approval Prediction System
-- 🍅 Deep Learning Based Tomato Disease Detection & Remedy Suggestion System
-- 📊 Data Analytics Dashboard using Python & SQL
+- 🌿 Empowering Farmers – Crop Disease Detection
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemanthKSSEM&theme=default" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HemanthKSSEM&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HemanthKSSEM&theme=default" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HemanthKSSEM&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HemanthKSSEM&theme=default&utcOffset=5.5" />
 </p>
